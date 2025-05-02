@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > **Ability Task Pack**
 > <br>Common ability tasks used in my projects
-> <br>But you're welcome to use them
+> <br>You're welcome to use them
 
 ## Changelog
 
